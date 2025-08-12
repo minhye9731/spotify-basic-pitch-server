@@ -1,3 +1,1 @@
 basic-pitch
-flask==2.2.5
-werkzeug==2.3.8
